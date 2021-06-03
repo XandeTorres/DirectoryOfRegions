@@ -1,0 +1,6 @@
+INSERT INTO Regions (Name, ShortName) VALUES
+  ('Адыгея', 'RU-AD'),
+  ('Мордовия', 'RU-MO'),
+  ('Пензенская обл', 'RU-PNZ'),
+  ('Коми', 'RU-KO')
+  ;
